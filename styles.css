@@ -1,5 +1,8 @@
 body {
-    background-color: ;
+    background: url('https://i.pinimg.com/736x/29/87/39/29873903b9c8f047ebf7fdba261f82af.jpg') no-repeat center center fixed; /* Add your image URL */
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
 }
 
 .header {
